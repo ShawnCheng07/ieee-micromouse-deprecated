@@ -1,5 +1,8 @@
 # UCI Kit Mouse (2026-2027 Ver.)
 
+> [!WARNING]
+> **DEPRECATED:** This repository is no longer the official design for the team. A different design was chosen, and this repository is no longer actively maintained. Here is the link to the [Official Repository](https://github.com/06chrismontalvo/UCI-2026-27-Kit-Micromouse).
+
 This repository contains:
  - A template kit mouse project with KiCad
  - Short installation guide for the overall project
